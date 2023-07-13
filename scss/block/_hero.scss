@@ -1,0 +1,36 @@
+.hero_biznes__container{
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-left: 100px;
+margin-right: 100px;
+}
+.biznes__title{
+font-size: 30px;
+font-weight: 700;
+line-height: 130%;
+width: 470px;
+padding-bottom: 16px;
+}
+.biznes__text{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+width: 470px;
+padding-bottom: 16px;
+}
+.biznes__btn{
+    color: #FFF;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+padding: 8px 16px;
+border-radius: 5px;
+background: var(--blue, #00BAFC);
+}
+.biznes__img{
+    width: 458px;
+height: 258px;
+flex-shrink: 0;
+border-radius: 5px;
+}
