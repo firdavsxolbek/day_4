@@ -279,4 +279,57 @@ img {
 
 .work__block {
   margin-left: 35px;
+}
+
+.work__btn {
+  color: #FFF;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  border-radius: 5px;
+  background: var(--blue, #00BAFC);
+  padding: 8px 16px;
+  margin: 0px 650px;
+}
+
+.footer {
+  background: var(--black, #191919);
+}
+
+.footer__container {
+  display: flex;
+}
+
+.footer__block {
+  background: var(--black, #191919);
+  margin-top: 50px;
+  padding-top: 50px;
+}
+
+.footer__title {
+  color: #FFF;
+  font-family: Open Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%; /* 26px */
+  margin-bottom: 16px;
+}
+
+.footer__text {
+  color: #FFF;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 24px */
+  width: 320px;
+}
+
+.footer__list_item {
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
 }/*# sourceMappingURL=main.css.map */
